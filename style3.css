@@ -1,0 +1,123 @@
+@charset "utf-8";
+/* CSS Document */
+
+p{
+	float:left;
+	font:16px calibri, sans-serif;
+	text-align: justify;
+    text-justify: inter-word;
+	margin:left;
+}
+
+#banner{
+	width:900px;
+	height:350px;
+	background-image:url(img/BANNNNER.jpg);
+	margin:0 auto;
+}
+#space_1{
+	width:900px;
+	height:30px;
+	margin:0 auto;
+}
+#space_2{
+	width:900px;
+	height:50px;
+	margin:center;
+}
+#geral_0{
+	width:1280px;
+	height:700px;
+	margin:0 auto;
+}
+#conteudo{
+	width:180px;
+	height:300px;
+	margin:0 auto;
+		}
+#conteudo_2{
+	width:1100px;
+	height:300px;
+	margin:0 auto;
+	
+	
+}
+#botao_1{
+	background-color:#00000;
+	width:256px;
+	height:25px;
+	float:left;
+	font:20px calibri, sans-serif;
+	color:white;}
+#botao_2{
+	background-color:#000000;
+	width:256px;
+	height:25px;
+	float:left;
+	font:20px calibri, sans-serif;
+	color:white;}
+#botao_3{
+	background-color:#000000;
+	width:256px;
+	height:25px;
+	float:left;
+	font:20px calibri, sans-serif;
+	color:white;}
+#botao_4{
+	background-color:#000000;
+	width:256px;
+	height:25px;
+	float:left;
+	font:20px calibri, sans-serif;
+	color:white;}
+#botao_5{
+	background-color:#000000;
+	width:256px;
+	height:25px;
+	float:left;
+	font:20px calibri, sans-serif;
+	color:white;}
+div.img {
+    margin:right ;
+    border: 1px solid #ccc;
+    float:left;
+    width: 180px;
+	background-color:#FFFFFF;
+	
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+	float:left
+	
+}
+
+div.desc {
+    padding:5px;
+    text-align: center;
+	font:15px calibri, sans-serif;
+	color:black;
+		
+}
+img{
+	margin:left;
+	float:left;
+}
+#a1:hover {
+	display : block;
+	background-image:url(img/h_bt_01.jpg);
+}
+#a2:hover {
+	background-image:url(img/h_bt_02.jpg);
+}
+#a3:hover {
+	background-image:url(img/h_bt_03.jpg);
+}
+#a4:hover {
+	background-image:url(img/h_bt_04.jpg);
+}
+#a5:hover {
+	
+	background-image:url(img/h_bt_05.jpg);
+}
